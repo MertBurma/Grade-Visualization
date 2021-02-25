@@ -1,0 +1,10 @@
+3
+Audrey 7 28 1
+Eddie 27 19 7
+Addison 6 23 31
+Stephanie 29 21 7
+Laura 19 30 17
+Melvin 8 70 21
+Camilo 28 3 33
+Bob 31 31 31
+Peyton 10 4 14
